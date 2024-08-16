@@ -1,3 +1,7 @@
+# Report
+
+Report in spotifyreport.pdf
+
 # Download-Spotify-Playlist
 
 This python script can download all the songs from your Spotify playlist into mp3 format by searching the songs on Youtube and downloading the respective MP3 files.
